@@ -1,14 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0faa840-f60f-4b4c-b1cc-5c76d6cfcbb4" name="Changes" comment="" />
+    <list default="true" id="d0faa840-f60f-4b4c-b1cc-5c76d6cfcbb4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p6/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2VFvFhlkZnNf1NadxYBvaeFGvup" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,6 +47,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
@@ -31,7 +59,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694444543004</updated>
+      <workItem from="1694444544827" duration="6984000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
